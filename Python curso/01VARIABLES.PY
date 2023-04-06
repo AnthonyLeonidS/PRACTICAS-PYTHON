@@ -11,6 +11,7 @@ my_int_variable=45
 print(my_int_variable)
 my_bool_variable=False
 print(my_bool_variable)
+
 print(type(print(type(my_int_to_str_variable))))  # tipo NoneTypemy_int_variable=45
 print(my_int_variable)
 my_bool_variable=False
